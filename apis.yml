@@ -1,0 +1,63 @@
+name: Pennsylvania Real Estate Investment Trust (PREIT)
+description: |
+  Pennsylvania Real Estate Investment Trust (PREIT) is a Philadelphia-based
+  mall REIT founded in 1960 by Sylvan M. Cohen. The trust developed, owned, and
+  managed mixed-use retail destinations — including Cherry Hill Mall, Woodland
+  Mall, Mall at Prince George's, and Springfield Town Center — across roughly
+  nine states in the eastern and midwestern United States.
+
+  PREIT filed for Chapter 11 bankruptcy protection twice in four years. The
+  first filing, on November 1, 2020, was a pre-packaged restructuring resolved
+  by December 11, 2020. The second filing, on December 10, 2023, was a more
+  consequential restructuring that wiped out public shareholders. PREIT
+  emerged from its second Chapter 11 in early 2024 as a private company owned
+  by its former lenders (reported to include Redwood Capital Management and
+  Nut Tree Capital Management). Common shares were delisted from the New York
+  Stock Exchange, and Jared Chupaila was appointed CEO of the reorganized,
+  privately held entity.
+
+  The post-emergence PREIT continues to operate its mall portfolio as a
+  private operator. It exposes no public APIs, no developer portal, no
+  documented machine-readable surfaces, and maintains no GitHub organization.
+  This profile is preserved primarily to document the company's Chapter 11
+  history and its absence from the API economy.
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/avatars/preit-avatar.jpg
+url: https://github.com/api-evangelist/preit
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.16"
+tags:
+  - Real Estate
+  - REIT
+  - Shopping Malls
+  - Retail
+  - Defunct (Public)
+  - Chapter 11
+  - Private Equity
+apis: []
+common:
+  - type: Website
+    url: https://www.preit.com
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Pennsylvania_Real_Estate_Investment_Trust
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+x-status: defunct-public
+x-ch11-filings:
+  - filed: 2020-11-01
+    emerged: 2020-12-11
+    type: pre-packaged
+    notes: First Chapter 11 — resolved quickly via pre-packaged plan.
+  - filed: 2023-12-10
+    emerged: 2024-02
+    type: restructuring
+    notes: |
+      Second Chapter 11 — emerged in early 2024 (reported February;
+      Wikipedia notes April) as a private company. Former lenders
+      (reported: Redwood Capital Management, Nut Tree Capital Management,
+      and other creditors) took ownership. Common shares were delisted
+      from the NYSE. Jared Chupaila appointed CEO.
+x-api-surface: none
+x-developer-program: none
+x-github-org: none

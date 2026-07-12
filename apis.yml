@@ -36,10 +36,14 @@ tags:
   - Private Equity
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/preit-domain-security.yml
   - type: Website
     url: https://www.preit.com
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Pennsylvania_Real_Estate_Investment_Trust
+  - url: https://www.preit.com/news-views/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com

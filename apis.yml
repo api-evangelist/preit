@@ -21,6 +21,17 @@ description: |
   documented machine-readable surfaces, and maintains no GitHub organization.
   This profile is preserved primarily to document the company's Chapter 11
   history and its absence from the API economy.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/avatars/preit-avatar.jpg
 url: https://github.com/api-evangelist/preit
 created: 2026-05-23

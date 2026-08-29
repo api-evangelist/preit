@@ -21,6 +21,17 @@ description: |
   documented machine-readable surfaces, and maintains no GitHub organization.
   This profile is preserved primarily to document the company's Chapter 11
   history and its absence from the API economy.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

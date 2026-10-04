@@ -49,7 +49,7 @@ created: 2026-05-23
 modified: 2026-05-23
 specificationVersion: '0.23'
 tags:
-  - Real-Estate
+  - Real Estate
   - REIT
   - Shopping Malls
   - Retail
@@ -64,6 +64,7 @@ tags_raw:
   - Defunct (Public)
   - Chapter 11
   - Private Equity
+  - Real-Estate
 apis: []
 common:
   - type: DomainSecurity

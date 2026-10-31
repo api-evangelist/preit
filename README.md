@@ -64,82 +64,47 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pennsylvania Real Estate Investment Trust (PREIT) is a Philadelphia-based
-mall REIT founded in **1960** by Sylvan M. Cohen. The trust developed,
-owned, and managed mixed-use retail destinations across roughly nine states,
-including Cherry Hill Mall, Woodland Mall, Mall at Prince George's, and
-Springfield Town Center.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-PREIT is no longer a public company and is not part of the API economy. This
-repository exists primarily to document its Chapter 11 history and its
-absence from machine-readable infrastructure.
+**Status:** defunct-public
 
-## Status
+Pennsylvania Real Estate Investment Trust (PREIT) is a Philadelphia-based mall REIT founded in 1960 by Sylvan M. Cohen. The trust developed, owned, and managed mixed-use retail destinations — including Cherry Hill Mall, Woodland Mall, Mall at Prince George's, and Springfield Town Center — across roughly nine states in the eastern and midwestern United States. PREIT filed for Chapter 11 bankruptcy protection twice in four years. The first filing, on November 1, 2020, was a pre-packaged restructuring resolved by December 11, 2020. The second filing, on December 10, 2023, was a more consequential restructuring that wiped out public shareholders. PREIT emerged from its second Chapter 11 in early 2024 as a private company owned by its former lenders (reported to include Redwood Capital Management and Nut Tree Capital Management). Common shares were delisted from the New York Stock Exchange, and Jared Chupaila was appointed CEO of the reorganized, privately held entity. The post-emergence PREIT continues to operate its mall portfolio as a private operator. It exposes no public APIs, no developer portal, no documented machine-readable surfaces, and maintains no GitHub organization. This profile is preserved primarily to document the company's Chapter 11 history and its absence from the API economy.
 
-**Defunct (as a public company).** Privately held since 2024 by its former
-lenders. Delisted from the New York Stock Exchange.
+**Areas:** Real Estate · REIT · Shopping Malls · Retail · Defunct (Public) · Chapter 11 · Private Equity
 
-## Chapter 11 History
+## Pennsylvania Real Estate Investment Trust (PREIT) on APIs.io (historical record)
 
-PREIT filed for Chapter 11 bankruptcy protection **twice in four years**.
+Everything profiled for Pennsylvania Real Estate Investment Trust (PREIT) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/preit/](https://apis.io/providers/preit/)** — or go straight to one of the APIs or properties below.
 
-### First filing — November 2020
+### Published properties
 
-- **Filed:** November 1, 2020
-- **Emerged:** December 11, 2020
-- **Type:** Pre-packaged restructuring
-- **Outcome:** Resolved quickly; common stock remained listed.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Second filing — December 2023
+#### Security (1)
 
-- **Filed:** December 10, 2023
-- **Emerged:** Early 2024 (reported February; Wikipedia notes April)
-- **Type:** Restructuring wiping out public shareholders
-- **New owners:** Former lenders — reported to include
-  **Redwood Capital Management** and **Nut Tree Capital Management**,
-  alongside other creditors
-- **NYSE:** Common shares delisted
-- **Leadership:** Jared Chupaila appointed CEO of the reorganized, privately
-  held entity
+Authentication, trust centre, and vulnerability disclosure.
 
-The post-emergence PREIT continues to operate its mall portfolio as a
-private operator. The corporate website (preit.com) reflects ongoing
-leasing activity, financing, and tenant additions through 2025, but the
-company is no longer publicly traded and publishes no investor portal or
-SEC filings as a registrant.
+- [Preit Domain Security](https://apis.io/security/preit/preit-domain-security/)
 
-## API Surface
+## Where to find this API
 
-**Zero APIs. Zero developer surface.**
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- No public API
-- No developer portal
-- No documented OpenAPI / AsyncAPI specifications
-- No SDKs or client libraries
-- No webhooks or event streams
-- No GitHub organization
-- No status page
-- No machine-readable changelog or RSS feed for tenant / property data
+- [Website](https://www.preit.com)
+- [Blog](https://www.preit.com/news-views/)
 
-PREIT is a real estate operator. Its operational systems — leasing,
-property management, tenant CRM — are vendor-supplied and not exposed to
-third-party developers.
+## API Evangelist rating
 
-## Why this profile exists
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-The API Evangelist network maintains profiles for companies across the
-Fortune universe and the broader US business landscape, including those
-that have exited public markets. Documenting Chapter 11 outcomes and the
-absence of API surface is itself a signal: it shows where the API economy
-has not reached, and where private-equity-led restructurings have removed
-public visibility entirely.
+## How this profile is made
 
-## Sources
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- [preit.com](https://www.preit.com) — corporate site (post-emergence)
-- [Wikipedia: Pennsylvania Real Estate Investment Trust](https://en.wikipedia.org/wiki/Pennsylvania_Real_Estate_Investment_Trust)
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pennsylvania Real Estate Investment Trust (PREIT): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Files in this repository
+## Open an issue
 
-- `apis.yml` — APIs.json-style profile (zero APIs; documents Ch 11 history)
-- `README.md` — this file
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/preit/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
